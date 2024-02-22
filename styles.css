@@ -1,11 +1,16 @@
 
 
 body {
-    color: white;
-    background-image: url("./space.jpg");
-    background-size: cover;
+    color: rgb(91, 196, 245);
+    margin: 0;
     text-align: center;
     font-family: "Kode Mono", monospace;
+}
+
+.hero-section {
+    background-image: url("./space.jpg");
+    background-size: cover;
+    padding: 10px 0 40px 0;
 }
 
 .logo-img {
@@ -16,6 +21,7 @@ body {
 
 .main-word {
     text-decoration: underline;
+    text-shadow: -5px -0.5px 3px black;
 }
 
 .btn {
