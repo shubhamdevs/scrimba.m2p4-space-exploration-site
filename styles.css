@@ -1,12 +1,17 @@
+
+
 body {
     color: white;
     background-image: url("./space.jpg");
     background-size: cover;
     text-align: center;
+    font-family: "Kode Mono", monospace;
 }
 
 .btn {
     padding: 7px 14px;
     background-color: white;
     border: none;
+    font-family: inherit;
+    font-weight: bold;
 }
