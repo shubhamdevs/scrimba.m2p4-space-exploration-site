@@ -8,6 +8,16 @@ body {
     font-family: "Kode Mono", monospace;
 }
 
+.logo-img {
+    width: 200px;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.main-word {
+    text-decoration: underline;
+}
+
 .btn {
     padding: 7px 14px;
     background-color: white;
